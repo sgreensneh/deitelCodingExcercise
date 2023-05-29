@@ -1,5 +1,6 @@
 package tdd;
 
+import chapterThree.AirCondition;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -89,6 +90,5 @@ public class AirConditionTest {
 
     }
 
-    public static class DrillerTest {
-    }
+
 }

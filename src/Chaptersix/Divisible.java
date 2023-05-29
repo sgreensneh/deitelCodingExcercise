@@ -16,6 +16,7 @@ public class Divisible {
                 System.out.println(userInput + " is not divisible by 5");
             }
 
+
         }
 
 

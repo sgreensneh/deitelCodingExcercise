@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7f9f1c-2f42-485c-95fc-120fa8ae4094" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chaptersix/Divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chaptersix/Divisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/ClassAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/Native.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/Maskify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/Maskify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/NaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/NaturalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/Factors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/Fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/Fourteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/SingleSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/SingleSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/AutomaticBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/AutomaticBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Driller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/Driller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/DrillerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/DrillerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/AirCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/AutomaticBikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AutomaticBikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +35,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/holidayProjects/SevenSegmentDisplay.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,33 +63,60 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sgreen/Downloads/jar_files/jackson-datatype-jsr310-2.15.0-rc1.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tdd" />
+      <recent name="chapterThree" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sgreen\IdeaProjects\javaProjects\src" />
+      <recent name="C:\Users\sgreen\IdeaProjects\javaProjects\src\chapterThree" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="chapterSeventeen" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="tdd" />
       <recent name="AutomaticBike" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dsa" />
+      <recent name="chapterFourteen" />
+      <recent name="arrays" />
+      <recent name="chapterFifteen" />
+      <recent name="DSA" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UtmeTest.firstTest">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChapterFour.Factorial" />
+  <component name="RunManager" selected="Application.BigDecimalSample">
+    <configuration name="BigDecimalSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfWork.BigDecimalSample" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChapterFour.*" />
+          <option name="PATTERN" value="selfWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,52 +124,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrillerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterSeventeen.ClassWork" />
       <module name="javaProjects" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DrillerTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterSeventeen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrillerTest.fourCopiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiicTacToe.Main" />
       <module name="javaProjects" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DrillerTest" />
-      <option name="METHOD_NAME" value="fourCopiesTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tiicTacToe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrillerTest.thirtyCopies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterSeventeen.Partition" />
       <module name="javaProjects" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DrillerTest" />
-      <option name="METHOD_NAME" value="thirtyCopies" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterSeventeen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UtmeTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamsExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.StreamsExampleTwo" />
       <module name="javaProjects" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UtmeTest" />
-      <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.BigDecimalSample" />
+      <item itemvalue="Application.Partition" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ClassWork" />
+      <item itemvalue="Application.StreamsExampleTwo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UtmeTest.firstTest" />
-        <item itemvalue="JUnit.DrillerTest" />
-        <item itemvalue="JUnit.DrillerTest.thirtyCopies" />
-        <item itemvalue="JUnit.DrillerTest.fourCopiesTest" />
-        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.BigDecimalSample" />
+        <item itemvalue="Application.Partition" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ClassWork" />
+        <item itemvalue="Application.StreamsExampleTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +203,63 @@
       <updated>1667398546988</updated>
       <workItem from="1667398558266" duration="138478000" />
       <workItem from="1668440112848" duration="9051000" />
-      <workItem from="1668497332506" duration="16457000" />
+      <workItem from="1668497332506" duration="90303000" />
+      <workItem from="1669293917998" duration="176696000" />
+      <workItem from="1671178906567" duration="11346000" />
+      <workItem from="1671364754846" duration="48523000" />
+      <workItem from="1672572618636" duration="89353000" />
+      <workItem from="1673540391660" duration="39101000" />
+      <workItem from="1673947693924" duration="18710000" />
+      <workItem from="1673984962752" duration="10890000" />
+      <workItem from="1674118908404" duration="159972000" />
+      <workItem from="1675065537480" duration="82039000" />
+      <workItem from="1675883503403" duration="9162000" />
+      <workItem from="1676118732950" duration="1740000" />
+      <workItem from="1676147444450" duration="818000" />
+      <workItem from="1676148940057" duration="21598000" />
+      <workItem from="1676290009078" duration="14191000" />
+      <workItem from="1676459606390" duration="1499000" />
+      <workItem from="1676461548904" duration="4112000" />
+      <workItem from="1676480419610" duration="609000" />
+      <workItem from="1676493719927" duration="3232000" />
+      <workItem from="1676498136826" duration="8785000" />
+      <workItem from="1676540616438" duration="11546000" />
+      <workItem from="1676627425984" duration="2329000" />
+      <workItem from="1676633925286" duration="84901000" />
+      <workItem from="1677422647745" duration="640000" />
+      <workItem from="1677423778812" duration="1501000" />
+      <workItem from="1677434785226" duration="1337000" />
+      <workItem from="1677714553998" duration="1562000" />
+      <workItem from="1677744117543" duration="1786000" />
+      <workItem from="1677782037358" duration="44000" />
+      <workItem from="1677782145897" duration="5105000" />
+      <workItem from="1677797207171" duration="10225000" />
+      <workItem from="1677841385053" duration="21072000" />
+      <workItem from="1677944229973" duration="17000" />
+      <workItem from="1677944355608" duration="9000" />
+      <workItem from="1677944467393" duration="282000" />
+      <workItem from="1677945421248" duration="636000" />
+      <workItem from="1677966851819" duration="23000" />
+      <workItem from="1678035402116" duration="1065000" />
+      <workItem from="1678083023696" duration="254000" />
+      <workItem from="1678797406749" duration="816000" />
+      <workItem from="1679053177443" duration="14070000" />
+      <workItem from="1679348440999" duration="41890000" />
+      <workItem from="1679785568902" duration="13295000" />
+      <workItem from="1679929513186" duration="132826000" />
+      <workItem from="1681385900913" duration="1263000" />
+      <workItem from="1681460580973" duration="36615000" />
+      <workItem from="1681913108632" duration="28869000" />
+      <workItem from="1682148282605" duration="59669000" />
+      <workItem from="1682527489417" duration="80175000" />
+      <workItem from="1683174330878" duration="14810000" />
+      <workItem from="1683201726956" duration="19553000" />
+      <workItem from="1683282216325" duration="5879000" />
+      <workItem from="1683998847302" duration="755000" />
+      <workItem from="1684010609485" duration="603000" />
+      <workItem from="1684140682621" duration="2358000" />
+      <workItem from="1684703030362" duration="611000" />
+      <workItem from="1684964554177" duration="1364000" />
     </task>
     <servers />
   </component>

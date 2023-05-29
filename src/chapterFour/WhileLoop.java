@@ -1,4 +1,4 @@
-package ChapterFour;
+package chapterFour;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class WhileLoop {
         int userInput = input.nextInt();
         int smallestNumber = userInput;
         int largestNumber = userInput;
+
 
 
         while (userInput != 0) {
